@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "team1": "Team A",
+      "team2": "Team B",
+      "score": "2-1"
+    },
+    {
+      "id": 2,
+      "team1": "Team C",
+      "team2": "Team D",
+      "score": "0-0"
+    }
+  ]
